@@ -1,0 +1,6 @@
+node_modules
+frontend
+.git
+.vscode
+package*
+.DS_Store
